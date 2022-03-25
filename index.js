@@ -1,3 +1,5 @@
-console.log("hello ")
+console.log("hello ");
 
-alert("hi man ...")
+alert("hi man ...");
+
+console.log("hello ");
